@@ -23,7 +23,11 @@ You love CS:GO, but miss some skins? Would you like to get Dragon Lore, or M9 Ba
 
 
 
-https://github.com/CSGO-SkinChanger/CSGO_Skin_Changer/assets/149183937/a0449bca-e566-4120-8623-53cb37bfb0a3
+
+
+https://github.com/CSGO-SkinChanger/CSGO_Skin_Changer/assets/149183937/0f246801-f4f1-4e1a-965d-f713c253dfca
+
+
 
 
 
